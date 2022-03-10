@@ -25,6 +25,7 @@
 **Currents.dev** - is a paid version of sorry-cypress with additional [features](https://currents.notion.site/Features-Comparison-83229899965147eab011aba2a2fcd421), enhanced security and performance.
 
 ## Table of contents
+  blabla
 
 - [Features](#features)
 - [Quickstart](#quickstart)
